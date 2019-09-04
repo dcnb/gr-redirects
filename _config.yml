@@ -32,11 +32,11 @@ defaults:
   - scope:
       type: transcripts
     values:
-      layout: transcript
+      layout: redirect
   - scope:
       type: interviews
     values:
-      layout: interviews
+      layout: redirect
       
 
 
